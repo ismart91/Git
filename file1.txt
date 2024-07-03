@@ -1,1 +1,2 @@
 hello guys we started learning git
+hello i am person 1
